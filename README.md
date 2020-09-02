@@ -1,3 +1,3 @@
 # ShalomOdozi.github.io
-# My portfolio website that uses, HTML, CSS, JavaScript
-#Uses responsive web desgin 
+My portfolio website that was created using, HTML, CSS and JavaScript
+ capable of responsive web desgin 
