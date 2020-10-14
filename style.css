@@ -347,14 +347,15 @@ p {
   display: flex;
   align-items: center;
   justify-content: center;
-  flex-direction: column;
+  flex-direction: row;
+  flex-wrap: wrap;
 }
 #projects .project-item {
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  width: 50%;
+  width: 40%;
   margin: 20px auto;
   overflow: hidden;
   border-radius: 10px;
@@ -367,6 +368,7 @@ p {
   align-items: flex-start;
   justify-content: center;
   flex-direction: column;
+  float: left;
   background-color: lightblue;
   color: white;
 }
